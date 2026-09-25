@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/meta-leads.js": {
+      "maxDuration": 30
+    }
+  }
+}
